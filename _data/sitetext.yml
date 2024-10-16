@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Luminiphi Labs!
-    text: Harnessing the Power of AI for the Future
+    text: AI for Tomorrow
     button: Learn More
     buttonlink: "#services"
 
@@ -31,11 +31,11 @@ en: &DEFAULT_EN
         desc: "Driving efficiency with RPA and AI-driven automation, streamlining processes for businesses."
         icon: fas fa-cogs
 
-  portfolio:
-    title: "Portfolio"
-    text: "Explore some of our success stories and innovative projects."
-    section: portfolio
-    closebutton: "Close Project"
+  industries:
+    title: "Industries"
+    text: "Explore the wide range of industries we've transformed through cutting-edge AI solutions."
+    section: industries
+    closebutton: "Close Industry"
 
   timeline:
     title: "Timeline"
@@ -64,19 +64,6 @@ en: &DEFAULT_EN
     text: "Our Story"
     body: "Luminiphi Labs is dedicated to solving complex business challenges using AI and automation. With a team of experts in AI strategy, machine learning, and RPA, we build custom solutions that transform how businesses operate."
     section: about
-
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Meet the passionate minds behind Luminiphi Labs."
-    subtext: "Our team of AI experts is driven by innovation and a commitment to client success."
-    section: team
-    people:
-      - name: "Reza Fazeli"
-        role: "AI Strategist & Founder"
-        image: assets/img/team/reza.jpg
-      - name: "Roya Fazeli"
-        role: "Administrative Assistant"
-        image: assets/img/team/roya.jpg
 
   contact:
     title: "Contact Us"
