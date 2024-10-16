@@ -65,6 +65,12 @@ en: &DEFAULT_EN
     body: "Luminiphi Labs is dedicated to solving complex business challenges using AI and automation. With a team of experts in AI strategy, machine learning, and RPA, we build custom solutions that transform how businesses operate."
     section: about
 
+team:
+    title: "Join Our Team"
+    text: "Career Opportunities"
+    subtext: Explore exciting career paths and opportunities with us. Whether you're a seasoned professional or just starting your journey, we offer a dynamic environment where you can grow, innovate, and make an impact. **Markdown** supported.
+    section: team
+
   contact:
     title: "Contact Us"
     text: "We'd love to hear from you. Get in touch with Luminiphi Labs."
