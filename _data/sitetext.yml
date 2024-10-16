@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Driving efficiency with RPA and AI-driven automation, streamlining processes for businesses."
         icon: fas fa-cogs
 
-  industries:
+  portfolio:
     title: "Industries"
     text: "Explore the wide range of industries we've transformed through cutting-edge AI solutions."
-    section: industries
+    section: portfolio
     closebutton: "Close Industry"
 
   timeline:
