@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Media
+subtitle: Transforming media and entertainment through digital innovation.
 image: assets/img/portfolio/06-full.png
-alt: 
+alt: Digital media content creation
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Media
+  subtitle: Empowering content creators with next-generation media solutions.
   thumbnail: assets/img/portfolio/06-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+The media industry is undergoing a digital transformation, shifting how content is created and consumed. Our solutions enable media companies to streamline production workflows, enhance distribution, and leverage data analytics to maximize audience engagement and monetization.

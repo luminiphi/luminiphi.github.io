@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Retail
+subtitle: Enhancing customer experiences with cutting-edge retail solutions.
 image: assets/img/portfolio/05-full.png
-alt: 
+alt: Retail shopping experience
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Retail
+  subtitle: Redefining retail through technology and innovation.
   thumbnail: assets/img/portfolio/05-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+Retail is all about delivering exceptional customer experiences. We help retailers embrace e-commerce, improve supply chain management, and provide personalized shopping experiences using AI-driven insights to meet customer expectations in a competitive landscape.

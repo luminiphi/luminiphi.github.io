@@ -50,12 +50,12 @@ en: &DEFAULT_EN
       - title: "First AI Solution Delivered"
         year: "2023"
         desc: "We successfully delivered our first AI-powered solution, driving efficiency for our clients."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.png
         alt: "First AI project"
       - title: "Expansion into New Industries"
         year: "2024"
         desc: "Luminiphi Labs expanded its AI expertise into healthcare, finance, and retail sectors."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.png
         alt: "Expansion of Luminiphi Labs"
     end: "Join <br> Our <br> Journey!"
 
@@ -81,9 +81,6 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    social:
-      - url: https://linkedin.com/company/luminiphilabs
-        icon: "fab fa-linkedin-in"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

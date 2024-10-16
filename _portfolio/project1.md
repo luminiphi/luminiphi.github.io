@@ -1,18 +1,12 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Education
+subtitle: Empowering minds through quality learning solutions.
 image: assets/img/portfolio/01-full.png
-alt: Shirts on a hanger
+alt: Students learning in a classroom
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Education
+  subtitle: Innovative learning approaches for the next generation.
   thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+Education shapes the future by providing knowledge and skills. Our solutions in education focus on personalized learning, digital transformation in classrooms, and innovative teaching methodologies to foster academic excellence and prepare learners for tomorrow.

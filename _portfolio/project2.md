@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Finance
+subtitle: Leading with innovative financial solutions.
 image: assets/img/portfolio/02-full.png
-alt: Keep Exploring
+alt: Financial growth
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Finance
+  subtitle: Powering success through advanced financial services.
   thumbnail: assets/img/portfolio/02-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+The finance industry is constantly evolving with emerging technologies. We provide cutting-edge solutions in fintech, risk management, and data analytics to help institutions stay competitive, improve decision-making, and ensure financial stability in a fast-changing market.
