@@ -68,12 +68,12 @@ en: &DEFAULT_EN
   team:
     title: "Career Opportunities"
     text: "Join Our Team"
-    subtext: Explore exciting career paths and opportunities with us. Whether you're a seasoned professional or just starting your journey, we offer a dynamic environment where you can grow, innovate, and make an impact. For more information, feel free to reach out to us at [reza@luminiphi.com](reza@luminiphi.com).
+    subtext: Explore exciting career paths and opportunities with us. Whether you're a seasoned professional or just starting your journey, we offer a dynamic environment where you can grow, innovate, and make an impact. For more information, feel free to reach out to us at <reza@luminiphi.com>.
     section: team
 
   contact:
     title: "Contact Us"
-    text: "We'd love to hear from you. Fill out the form below or send an email to [reza@luminiphi.com](reza@luminiphi.com). We're located at 1108 - 250 Consumers Road, North York, ON M2J 4V6, Canada"
+    text: "We'd love to hear from you. Fill out the form below or send an email to reza@luminiphi.com.<br>We're located at 1108 - 250 Consumers Road, North York, ON M2J 4V6, Canada"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -91,7 +91,7 @@ en: &DEFAULT_EN
     social:
         - url: https://twitter.com/luminiphi
           icon: "fab fa-twitter"
-        - url: https://facebook.com
+        - url: https://facebook.com/luminiphi
           icon: "fab fa-facebook-f"
         - url: https://linkedin.com
           icon: "fab fa-linkedin-in"
