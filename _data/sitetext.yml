@@ -68,7 +68,7 @@ en: &DEFAULT_EN
   team:
     title: "Career Opportunities"
     text: "Join Our Team"
-    subtext: Explore exciting career paths and opportunities with us. Whether you're a seasoned professional or just starting your journey, we offer a dynamic environment where you can grow, innovate, and make an impact. For more information, feel free to contact us by completing the form below.
+    subtext: Explore exciting career paths and opportunities with us. Whether you're a seasoned professional or just starting your journey, we offer a dynamic environment where you can grow, innovate, and make an impact. For more information, feel free to complete the form below or reach out to <careers@luminiphi.com>.
     section: team
 
   contact:
