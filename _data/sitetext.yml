@@ -73,7 +73,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "We'd love to hear from you. Use the form below or email <info@luminiphi.com>. <br>We're located at 1108 - 250 Consumers Road, North York, ON M2J 4V6, Canada."
+    text: "We'd love to hear from you.<br>We're located at 1108 - 250 Consumers Road, North York, ON M2J 4V6, Canada."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
