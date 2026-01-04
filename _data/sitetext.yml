@@ -75,7 +75,7 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "We'd love to hear from you.<br>We're located at 1108 - 250 Consumers Road, North York, ON M2J 4V6, Canada."
     section: contact
-    name: "Name*"
+    name: "Full Name*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
